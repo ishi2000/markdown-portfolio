@@ -1,3 +1,2 @@
-#Replace this with your name, and include a header
-#github header
-###Replace this with your name, and include a header
+# Github header
+## Replace this with you name an add a header
